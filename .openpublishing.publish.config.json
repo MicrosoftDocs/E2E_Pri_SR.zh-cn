@@ -14,6 +14,7 @@
   ],
   "notification_subscribers": [],
   "branches_to_filter": [
+    "master",
     "live"
   ],
   "continue_with_document_error": true,
