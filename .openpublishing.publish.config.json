@@ -14,15 +14,13 @@
   ],
   "notification_subscribers": [],
   "branches_to_filter": [
-    "live-sxs",
-    "master"
+    "master",
+    "live"
   ],
   "continue_with_document_error": true,
   "skip_source_output_uploading": false,
   "need_preview_pull_request": false,
-  "contribution_branch_mappings": {
-    "live-sxs": "live"
-  },
+  "contribution_branch_mappings": {},
   "dependent_repositories": [
     {
       "path_to_root": "_themes",
