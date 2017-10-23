@@ -3,11 +3,13 @@
   "notification_subscribers": [],
   "branches_to_filter": [
     "master-sxs",
-    "live-sxs"
+    "live"
   ],
   "continue_with_document_error": true,
   "skip_source_output_uploading": false,
-  "contribution_branch_mappings": {},
+  "contribution_branch_mappings": {
+    "live-sxs": "live"
+  },
   "branch_target_mapping": {},
   "need_generate_pdf_url_template": false
 }
