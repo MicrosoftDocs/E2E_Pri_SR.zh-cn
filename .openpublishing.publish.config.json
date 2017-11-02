@@ -2,13 +2,12 @@
   "docsets_to_publish": [],
   "notification_subscribers": [],
   "branches_to_filter": [
-    "live",
-    "master"
+    "master",
+    "live-sxs"
   ],
   "continue_with_document_error": true,
   "skip_source_output_uploading": false,
   "contribution_branch_mappings": {
-    "live-sxs": "live",
     "master-sxs": "master"
   },
   "branch_target_mapping": {},
